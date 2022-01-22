@@ -1,8 +1,8 @@
 # Number_Baseball_Game
 
 ### Game Explanation
-무작위로 정해진 4자리 숫자를 맞추는 게임.
-
+무작위로 정해진 4자리 숫자를 맞추는 게임.  
+___
 * How to play this game  
   1. 0 ~ 9 사이의 숫자 4개를 입력한다.
   2. 스트라이크와 볼의 수치가 출력된다.
