@@ -3,7 +3,7 @@
 ### Game Explanation
 무작위로 정해진 4자리 숫자를 맞추는 게임.
 
-* How to play this game
+* How to play this game  
   1. 0 ~ 9 사이의 숫자 4개를 입력한다.
   2. 스트라이크와 볼의 수치가 출력된다.
       - 스트라이크는 입력받은 숫자들 중 자리와 숫자까지 맞은 개수를 의미한다.
